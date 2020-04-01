@@ -1,0 +1,1 @@
+$('.section').before('<div class="kemusite_fixed"><h1>このサイトは不適切なため表示できません</h1></div>');
